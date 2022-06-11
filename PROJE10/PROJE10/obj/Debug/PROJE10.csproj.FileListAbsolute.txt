@@ -1,0 +1,32 @@
+C:\Users\BUSE NUR\source\repos\PROJE10\PROJE10\bin\Debug\PROJE10.exe.config
+C:\Users\BUSE NUR\source\repos\PROJE10\PROJE10\bin\Debug\PROJE10.exe
+C:\Users\BUSE NUR\source\repos\PROJE10\PROJE10\bin\Debug\PROJE10.pdb
+C:\Users\BUSE NUR\source\repos\PROJE10\PROJE10\obj\Debug\PROJE10.csprojAssemblyReference.cache
+C:\Users\BUSE NUR\source\repos\PROJE10\PROJE10\obj\Debug\PROJE10.Form1.resources
+C:\Users\BUSE NUR\source\repos\PROJE10\PROJE10\obj\Debug\PROJE10.Properties.Resources.resources
+C:\Users\BUSE NUR\source\repos\PROJE10\PROJE10\obj\Debug\PROJE10.csproj.GenerateResource.cache
+C:\Users\BUSE NUR\source\repos\PROJE10\PROJE10\obj\Debug\PROJE10.csproj.CoreCompileInputs.cache
+C:\Users\BUSE NUR\source\repos\PROJE10\PROJE10\obj\Debug\PROJE10.exe
+C:\Users\BUSE NUR\source\repos\PROJE10\PROJE10\obj\Debug\PROJE10.pdb
+C:\Users\nazmi\Desktop\C-ile-iliskilil-tablolar-main\PROJE10\PROJE10\bin\Debug\PROJE10.exe.config
+C:\Users\nazmi\Desktop\C-ile-iliskilil-tablolar-main\PROJE10\PROJE10\bin\Debug\PROJE10.exe
+C:\Users\nazmi\Desktop\C-ile-iliskilil-tablolar-main\PROJE10\PROJE10\bin\Debug\PROJE10.pdb
+C:\Users\nazmi\Desktop\C-ile-iliskilil-tablolar-main\PROJE10\PROJE10\obj\Debug\PROJE10.csproj.AssemblyReference.cache
+C:\Users\nazmi\Desktop\C-ile-iliskilil-tablolar-main\PROJE10\PROJE10\obj\Debug\PROJE10.csproj.SuggestedBindingRedirects.cache
+C:\Users\nazmi\Desktop\C-ile-iliskilil-tablolar-main\PROJE10\PROJE10\obj\Debug\PROJE10.Form1.resources
+C:\Users\nazmi\Desktop\C-ile-iliskilil-tablolar-main\PROJE10\PROJE10\obj\Debug\PROJE10.Properties.Resources.resources
+C:\Users\nazmi\Desktop\C-ile-iliskilil-tablolar-main\PROJE10\PROJE10\obj\Debug\PROJE10.csproj.GenerateResource.cache
+C:\Users\nazmi\Desktop\C-ile-iliskilil-tablolar-main\PROJE10\PROJE10\obj\Debug\PROJE10.csproj.CoreCompileInputs.cache
+C:\Users\nazmi\Desktop\C-ile-iliskilil-tablolar-main\PROJE10\PROJE10\obj\Debug\PROJE10.exe
+C:\Users\nazmi\Desktop\C-ile-iliskilil-tablolar-main\PROJE10\PROJE10\obj\Debug\PROJE10.pdb
+C:\Users\furkan\Desktop\furkan (1)\PROJE10\PROJE10\bin\Debug\PROJE10.exe.config
+C:\Users\furkan\Desktop\furkan (1)\PROJE10\PROJE10\bin\Debug\PROJE10.exe
+C:\Users\furkan\Desktop\furkan (1)\PROJE10\PROJE10\bin\Debug\PROJE10.pdb
+C:\Users\furkan\Desktop\furkan (1)\PROJE10\PROJE10\obj\Debug\PROJE10.csproj.AssemblyReference.cache
+C:\Users\furkan\Desktop\furkan (1)\PROJE10\PROJE10\obj\Debug\PROJE10.csproj.SuggestedBindingRedirects.cache
+C:\Users\furkan\Desktop\furkan (1)\PROJE10\PROJE10\obj\Debug\PROJE10.Form1.resources
+C:\Users\furkan\Desktop\furkan (1)\PROJE10\PROJE10\obj\Debug\PROJE10.Properties.Resources.resources
+C:\Users\furkan\Desktop\furkan (1)\PROJE10\PROJE10\obj\Debug\PROJE10.csproj.GenerateResource.cache
+C:\Users\furkan\Desktop\furkan (1)\PROJE10\PROJE10\obj\Debug\PROJE10.csproj.CoreCompileInputs.cache
+C:\Users\furkan\Desktop\furkan (1)\PROJE10\PROJE10\obj\Debug\PROJE10.exe
+C:\Users\furkan\Desktop\furkan (1)\PROJE10\PROJE10\obj\Debug\PROJE10.pdb
